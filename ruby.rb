@@ -4,6 +4,7 @@
 #   answer = number * 0.8
 #   puts answer
 # end
+# プログラミングテスト
 
 answer = 42
 
